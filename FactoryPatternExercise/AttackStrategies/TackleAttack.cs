@@ -1,4 +1,4 @@
-﻿namespace StrategyExample.AttackStrategies;
+﻿namespace FactoryPattern.AttackStrategies;
 
 public class TackleAttack :IPokemonAttackStrategy
 {
@@ -6,4 +6,5 @@ public class TackleAttack :IPokemonAttackStrategy
     {
         Console.WriteLine($"{attackerName} used Tackle!");
     }
+
 }

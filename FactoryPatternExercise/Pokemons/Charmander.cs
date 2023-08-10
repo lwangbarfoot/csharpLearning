@@ -1,6 +1,6 @@
-﻿using StrategyExample.AttackStrategies;
+﻿using FactoryPattern.AttackStrategies;
 
-namespace StrategyExample.Pokemons;
+namespace FactoryPattern.Pokemons;
 
 public class Charmander : IPokemon
 {

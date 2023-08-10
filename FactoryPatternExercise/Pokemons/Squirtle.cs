@@ -1,7 +1,7 @@
-﻿using StrategyExample.AttackStrategies;
-using System.Xml.Linq;
+﻿using System.Xml.Linq;
+using FactoryPattern.AttackStrategies;
 
-namespace StrategyExample.Pokemons;
+namespace FactoryPattern.Pokemons;
 
 public class Squirtle : IPokemon
 {

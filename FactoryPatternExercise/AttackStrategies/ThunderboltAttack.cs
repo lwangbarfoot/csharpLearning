@@ -1,4 +1,4 @@
-﻿namespace StrategyExample.AttackStrategies;
+﻿namespace FactoryPattern.AttackStrategies;
 
 public class ThunderboltAttack : IPokemonAttackStrategy
 {
@@ -6,4 +6,5 @@ public class ThunderboltAttack : IPokemonAttackStrategy
     {
         Console.WriteLine($"{attackerName} used Thunderbolt!");
     }
+
 }

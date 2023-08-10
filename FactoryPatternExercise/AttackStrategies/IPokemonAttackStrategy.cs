@@ -1,6 +1,7 @@
-﻿namespace StrategyExample.AttackStrategies;
+﻿namespace FactoryPattern.AttackStrategies;
 
 public interface IPokemonAttackStrategy
 {
     void Attack(string attackerName);
+
 }

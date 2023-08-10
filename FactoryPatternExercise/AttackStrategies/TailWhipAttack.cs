@@ -1,4 +1,4 @@
-﻿namespace StrategyExample.AttackStrategies;
+﻿namespace FactoryPattern.AttackStrategies;
 
 public class TailWhipAttack : IPokemonAttackStrategy
 {
@@ -6,4 +6,5 @@ public class TailWhipAttack : IPokemonAttackStrategy
     {
         Console.WriteLine($"{attackerName} used TailWhip!");
     }
+
 }

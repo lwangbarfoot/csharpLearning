@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using StrategyExample.AttackStrategies;
-using StrategyExample.Pokemons;
+using FactoryPattern.AttackStrategies;
+using FactoryPattern.Pokemons;
 
 // Set up - create pokemon with Name & Type
 var pikachu = PokemonFactory.CreatePokemon("Ling`s Pikachu", "Pikachu");

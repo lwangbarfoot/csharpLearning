@@ -1,6 +1,6 @@
-﻿using StrategyExample.AttackStrategies;
+﻿using FactoryPattern.AttackStrategies;
 
-namespace StrategyExample;
+namespace FactoryPattern;
 
 public interface IPokemon
 {

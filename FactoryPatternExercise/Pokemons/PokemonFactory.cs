@@ -1,11 +1,11 @@
-﻿using StrategyExample.AttackStrategies;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FactoryPattern.AttackStrategies;
 
-namespace StrategyExample.Pokemons
+namespace FactoryPattern.Pokemons
 {
     public class PokemonFactory
     {

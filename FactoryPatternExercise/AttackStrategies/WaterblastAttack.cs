@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrategyExample.AttackStrategies
+namespace FactoryPattern.AttackStrategies
 {
     public class WaterblastAttack: IPokemonAttackStrategy
     {
@@ -12,5 +12,6 @@ namespace StrategyExample.AttackStrategies
         {
             Console.WriteLine($"{attackerName} used Waterblast!");
         }
+
     }
 }

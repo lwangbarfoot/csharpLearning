@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oe8lpB0CkWiDtVuDbad8vj5C0T7mHYmrrdhLwXHMfgWEBK73VDQP58fEuEevETEtpOMM7npg+nJtTRMhjUcjNw==",
+  "dgSpecHash": "T0cVJ7hqqzfH1scokRzzleK1rLaifjlpqnQeOcNrYUHbWuXTesryJ2Kt7AqXCHKDP9OYOJYqCHyccsuYruv/8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lwang\\Downloads\\FactoryAndStrategyExample\\StrategyExample\\StrategyExample.csproj",
+  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\FactoryPatternExercise\\StrategyExample.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

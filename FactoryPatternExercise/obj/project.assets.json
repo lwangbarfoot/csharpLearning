@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lwang\\Downloads\\FactoryAndStrategyExample\\StrategyExample\\StrategyExample.csproj",
+      "projectUniqueName": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\FactoryPatternExercise\\StrategyExample.csproj",
       "projectName": "StrategyExample",
-      "projectPath": "C:\\Users\\lwang\\Downloads\\FactoryAndStrategyExample\\StrategyExample\\StrategyExample.csproj",
+      "projectPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\FactoryPatternExercise\\StrategyExample.csproj",
       "packagesPath": "C:\\Users\\lwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lwang\\Downloads\\FactoryAndStrategyExample\\StrategyExample\\obj\\",
+      "outputPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\FactoryPatternExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

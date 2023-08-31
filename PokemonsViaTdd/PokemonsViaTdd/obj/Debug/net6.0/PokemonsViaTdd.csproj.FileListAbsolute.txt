@@ -1,0 +1,12 @@
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\bin\Debug\net6.0\PokemonsViaTdd.deps.json
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\bin\Debug\net6.0\PokemonsViaTdd.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\bin\Debug\net6.0\PokemonsViaTdd.pdb
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.csproj.AssemblyReference.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.AssemblyInfoInputs.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.AssemblyInfo.cs
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.csproj.CoreCompileInputs.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\refint\PokemonsViaTdd.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\PokemonsViaTdd.pdb
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PokemonsViaTdd\PokemonsViaTdd\obj\Debug\net6.0\ref\PokemonsViaTdd.dll

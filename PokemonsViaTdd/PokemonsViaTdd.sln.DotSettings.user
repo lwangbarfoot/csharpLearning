@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9dfc2fac_002D569a_002D4e60_002D9d7a_002Da49dbd662c7a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PikachuLearnsNewMoveAtLevel3_Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB88A4AA-6F7C-4B36-9977-38F7A82FC76C::net6.0::PokemonsViaTddTests.PikachuTests.PikachuLearnsNewMoveAtLevel3_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af9cfa89_002Dd92c_002D4e06_002D8201_002Daa157222f18c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PikachuLearnsNewMoveAtLevel3_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB88A4AA-6F7C-4B36-9977-38F7A82FC76C::net6.0::PokemonsViaTddTests.PikachuTests.PikachuLearnsNewMoveAtLevel3_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

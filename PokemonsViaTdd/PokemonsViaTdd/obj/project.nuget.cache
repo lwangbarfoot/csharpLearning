@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/T+EN9AMFUhWnHt7CwGDPtdVnZSCxNG0CQG4DEi6c5h1x5akTngsiJVVhbIp97vnwghqmkfcRVRg9qsdBPN5JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\PokemonsViaTdd\\PokemonsViaTdd\\PokemonsViaTdd.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.barfoot.co.nz/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

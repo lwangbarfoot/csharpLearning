@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DeskBooker.Core
+build_property.ProjectDir = C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\csharp-test-driven-development\02\demos\after\nunit\DeskBooker.Core.Tests\

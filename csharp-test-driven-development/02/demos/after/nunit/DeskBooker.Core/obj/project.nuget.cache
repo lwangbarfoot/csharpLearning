@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "wI3GLRfSDf2T3sXrYpXLu+FrL3RTMsZvwxBGOwDDmi9Pdb1mV3FMnnnyqHgA8kd1NmhxugtJLpq56Ows9Rcmbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\02\\demos\\after\\nunit\\DeskBooker.Core\\DeskBooker.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lwang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lwang\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lwang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.barfoot.co.nz/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

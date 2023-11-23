@@ -1,0 +1,15 @@
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\bin\Debug\net6.0\PatternsPractice.exe
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\bin\Debug\net6.0\PatternsPractice.deps.json
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\bin\Debug\net6.0\PatternsPractice.runtimeconfig.json
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\bin\Debug\net6.0\PatternsPractice.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\bin\Debug\net6.0\PatternsPractice.pdb
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.csproj.AssemblyReference.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.AssemblyInfoInputs.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.AssemblyInfo.cs
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.csproj.CoreCompileInputs.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\refint\PatternsPractice.dll
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.pdb
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\PatternsPractice.genruntimeconfig.cache
+C:\Users\lwang\Documents\GitHub\c#learning\csharpLearning\PatternsPractice\PatternsPractice\obj\Debug\net6.0\ref\PatternsPractice.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice\\DeskBooker.Core\\DeskBooker.Core.csproj",
+      "projectUniqueName": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice_saveDeskbooking\\DeskBooker.Core\\DeskBooker.Core.csproj",
       "projectName": "DeskBooker.Core",
-      "projectPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice\\DeskBooker.Core\\DeskBooker.Core.csproj",
+      "projectPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice_saveDeskbooking\\DeskBooker.Core\\DeskBooker.Core.csproj",
       "packagesPath": "C:\\Users\\lwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice\\DeskBooker.Core\\obj\\",
+      "outputPath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice_saveDeskbooking\\DeskBooker.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

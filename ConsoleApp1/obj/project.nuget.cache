@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "131dTq7s9iGvQ1TjMcpfASkhIJjE4+4OW8YsPPRttzDOCD4L4vGCS591q43+EmX83fcI83eBz2advNLqXVXLeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\ConsoleApp1\\AdapterPattern.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.barfoot.co.nz/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

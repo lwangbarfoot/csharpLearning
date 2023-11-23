@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0cVJ7hqqzfH1scokRzzleK1rLaifjlpqnQeOcNrYUHbWuXTesryJ2Kt7AqXCHKDP9OYOJYqCHyccsuYruv/8g==",
+  "dgSpecHash": "PyLd+4FRy2w0Q8O/0EWLs8N3/JFqyTOxZfISD+yAKcGWjxgRjkawoe6R8vQ0QGlKr6s92Wh0TGElsrZpKV4olA==",
   "success": true,
   "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\FactoryPatternExercise\\StrategyExample.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.barfoot.co.nz/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

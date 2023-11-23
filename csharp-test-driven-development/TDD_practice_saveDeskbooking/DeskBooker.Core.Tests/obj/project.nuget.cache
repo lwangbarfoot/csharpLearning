@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IrsJY6L7eBfPoaZkyt1+dzidCGe/Mz6ZpPM66kXriJkVJDvF5tBjHe00fkSK60RXGVprsQ07vMDyDDZaJbF/Ag==",
+  "dgSpecHash": "dHxWIWDA445w9YrWO/DY+6ztjhOBCIQfBar/cGrrUgN3+b4llhy/Ma8MJxnG7GFKiyXrP98pdAP3vpl8dBQKIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
+  "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\csharp-test-driven-development\\TDD_practice_saveDeskbooking\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lwang\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\lwang\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

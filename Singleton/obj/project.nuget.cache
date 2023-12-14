@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "H6U/FVCmgDo3d3Pfg8RfzbKAdx/WMHhzbV5uH2SC5UKr1hoS7dO9+JJHijLmBnRuLP1bUxA8H9+tIv8CkH7lKg==",
+  "dgSpecHash": "xQDUgSF10rVfDNqfm3KyEx913S4YJBJCRe4XsxP2aV4ssylUPuJTVKDF6jQt3kkwM3gOIYxREmAXIhph50mjTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lwang\\Documents\\GitHub\\c#learning\\csharpLearning\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.barfoot.co.nz/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

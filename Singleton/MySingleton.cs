@@ -1,20 +1,28 @@
-﻿namespace Singleton;
+﻿namespace Singleton
 
-public static class MySingleton
 {
-    public static string? Instance { get; set; } = "Instance" + GetRandomNumber();
-
-    //static helper method generating random number from 0 to 1000
-    public static int GetRandomNumber()
+    public static class MySingleton
     {
-        Random random = new();
-        return random.Next(0, 1000);
+        private static readonly Lazy<string> lazyInstance = new Lazy<string>(() => "Instance" + GetRandomNumber());
+
+        public static string Instance => lazyInstance.Value;
+
+        private static int GetRandomNumber()
+        {
+            Random random = new();
+            return random.Next(0, 1000);
+        }
     }
-}
 
+    public class MySingleton2
+    {
+        private static readonly Lazy<MySingleton2> lazyInstance = new Lazy<MySingleton2>(() => new MySingleton2());
 
-public class MySingleton2
-{
-    public object? Instance { get; set; }
-    public static object? Instance2 { get; set; }
+        public static MySingleton2 Instance2 => lazyInstance.Value;
+
+        public object? Instance { get; set; }
+
+        // Private constructor to prevent instantiation from outside the class.
+        private MySingleton2() { }
+    }
 }

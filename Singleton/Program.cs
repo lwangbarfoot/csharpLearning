@@ -12,11 +12,14 @@ var x = new object();
 var y = new object();
 
 
+// Using MySingleton
 var s = MySingleton.Instance;
 var s2 = MySingleton.Instance;
 
-MySingleton2.Instance2 = new();
-var s3 = new MySingleton2();
+// Using MySingleton2
+var s3 = MySingleton2.Instance2;
+
+// Accessing the Instance property of MySingleton2
 s3.Instance = new();
 
 // two types of memory
